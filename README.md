@@ -174,13 +174,13 @@ Cloud & DevOps            - Kubernetes, Google Cloud, CI/CD
 ```
 
 ---
+
 ## GitHub Stats
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Reshmitha-kr&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Reshmitha-kr&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Reshmitha-kr&theme=tokyonight&hide_border=true&background=0d1117&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd&border_radius=10&date_format=j%20M%5B%20Y%5D" width="49%"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reshmitha-kr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10&hide=java" width="49%"/>
 
 </div>
 
