@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Reshmitha%20K%20R&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%2FML%20Engineer%20%7C%20B.Tech%20CSE-AI%20Student&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Reshmitha%20K%20R&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%2FML%20Engineer%20%7C%20B.Tech%20CSE-AI%20%7C%20Amrita%20Vishwa%20Vidyapeetham&descAlignY=62&descSize=16" width="100%"/>
 
-Kerala, India · [LinkedIn](https://www.linkedin.com/in/reshmitha-kr) · [Email](mailto:rreshmithakr@gmail.com)
+<img src="https://komarev.com/ghpvc/?username=Reshmitha-kr&style=flat-square&color=70a5fd&label=Profile+Views"/>
+
+**Kerala, India · [LinkedIn](https://www.linkedin.com/in/reshmitha-kr) · [Email](mailto:rreshmithakr@gmail.com)**
 
 </div>
 
@@ -10,11 +12,11 @@ Kerala, India · [LinkedIn](https://www.linkedin.com/in/reshmitha-kr) · [Email]
 
 ## About
 
-B.Tech student in Computer Science and Artificial Intelligence with hands-on project experience across machine learning, deep learning, computer vision, NLP, robotics, and IoT. Comfortable working end-to-end — from embedded sensor systems and ROS-based robots to full-stack web applications with integrated ML models. Particularly interested in applied AI for healthcare, robotics, and intelligent automation.
+Final-year B.Tech student in Computer Science and Artificial Intelligence at Amrita Vishwa Vidyapeetham (2023–2027), with hands-on experience in machine learning, deep learning, NLP, computer vision, robotics, and full-stack development. Skilled at building end-to-end AI systems — from data preprocessing and model development to deployment and evaluation. Experienced across healthcare AI, intelligent automation, and embedded systems. Actively seeking opportunities in AI/ML engineering, software development, and data science.
 
 ---
 
-## Skills
+## Technical Skills
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,java,javascript,tensorflow,keras,opencv,sklearn,flask,docker,kubernetes,gcp,mongodb,git,jupyter,raspberrypi&theme=dark" />
@@ -27,33 +29,36 @@ B.Tech student in Computer Science and Artificial Intelligence with hands-on pro
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 </p>
 
 **Machine Learning & Deep Learning**
 <p>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
 </p>
 
-**Robotics & Embedded Systems**
-<p>
-  <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white"/>
-</p>
-
-**Web, Cloud & Tools**
+**Web, Cloud & DevOps**
 <p>
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>
+</p>
+
+**Robotics & Embedded Systems**
+<p>
+  <img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=white"/>
 </p>
 
 ---
@@ -62,53 +67,59 @@ B.Tech student in Computer Science and Artificial Intelligence with hands-on pro
 
 <div align="center">
 
-| Project | Category | Stack | Highlights |
+| Project | Domain | Stack | Key Results |
 |---|---|---|---|
-| **Early Prediction of Pancreatic Cancer Using Deep Learning** | <img src="https://img.shields.io/badge/-Deep%20Learning-70A5FD?style=flat-square"/> | Python, TensorFlow, Keras, ResNet50, ViT, Grad-CAM | Compared ResNet50 and Vision Transformer on 23,000+ CT images for cancer classification; **86% / 81% accuracy**; Grad-CAM for interpretability |
-| **Personalized Music Therapy System Using Acoustic AI** | <img src="https://img.shields.io/badge/-Audio%20AI-BF91F3?style=flat-square"/> | Python, Librosa, Scikit-learn, Spotify API | Emotion recognition from MFCC/ZCR/RMS features; Random Forest & XGBoost at **78% accuracy**; mood-based Spotify recommendations |
-| **AI-Based Adaptive Traffic Signal Control** | <img src="https://img.shields.io/badge/-Reinforcement%20Learning-38BDAE?style=flat-square"/> | Python, SUMO, Multi-Agent RL, Streamlit | Multi-agent RL for adaptive traffic signals with reward shaping and emergency vehicle prioritization in SUMO |
-| **AI-Powered Smart Donation & Impact Recommendation System** | <img src="https://img.shields.io/badge/-Full--Stack-F7931E?style=flat-square"/> | MERN Stack, Python, Machine Learning | Full-stack donation platform with JWT auth, role-based access, and ML-based recommendations |
-| **ROS-Based Exploration Robot for Human Safety Validation** | <img src="https://img.shields.io/badge/-Robotics-22314E?style=flat-square&logo=ros&logoColor=white"/> | ROS2, Raspberry Pi, Python, YOLOv8, OpenCV, SLAM | Autonomous exploration robot with SLAM navigation and real-time YOLOv8n object/hazard detection for safety monitoring |
-| **IoT-Based Smart Wheelchair** | <img src="https://img.shields.io/badge/-IoT-A22846?style=flat-square&logo=raspberrypi&logoColor=white"/> | ESP32, HC-SR04, MPU6050, L298N | Intelligent mobility aid with obstacle/fall detection, joystick control, and real-time health monitoring over Wi-Fi |
+| **[Early Prediction of Pancreatic Cancer Using Deep Learning](#)** | <img src="https://img.shields.io/badge/-Healthcare%20AI-70A5FD?style=flat-square"/> | Python, TensorFlow, Keras, ResNet50, ViT, Grad-CAM | Benchmarked ResNet50 vs Vision Transformer on 23,000+ CT scans; achieved **86% / 81% accuracy**; Grad-CAM explainability |
+| **[Hallucination Detection in LLM Mathematical Reasoning](#)** | <img src="https://img.shields.io/badge/-NLP%20%2F%20LLMs-BF91F3?style=flat-square"/> | Python, Qwen2-1.5B, Phi-2, LLaMA 3.x, BERT, GSM8K | Multi-model pipeline for detecting & correcting hallucinations in AI-generated math; BERT-based classifier on GSM8K dataset |
+| **[Personalized Music Therapy System Using Acoustic AI](#)** | <img src="https://img.shields.io/badge/-Audio%20AI-38BDAE?style=flat-square"/> | Python, Librosa, Scikit-learn, Spotify API | Emotion recognition from MFCC/ZCR/RMS audio features; Random Forest & XGBoost at **78% accuracy** |
+| **[AI-Based Adaptive Traffic Signal Control](#)** | <img src="https://img.shields.io/badge/-Reinforcement%20Learning-F7931E?style=flat-square"/> | Python, SUMO, Multi-Agent RL, Streamlit | Multi-agent RL system with reward shaping and emergency vehicle prioritization in SUMO simulation |
+| **[AI-Powered Smart Donation & Impact Recommendation System](#)** | <img src="https://img.shields.io/badge/-Full--Stack-70A5FD?style=flat-square"/> | MERN Stack, Python, ML | Full-stack donation platform with JWT auth, role-based access control, and ML-driven recommendations |
+| **[ROS-Based Exploration Robot for Human Safety Validation](#)** | <img src="https://img.shields.io/badge/-Robotics-22314E?style=flat-square&logo=ros&logoColor=white"/> | ROS2, Raspberry Pi, YOLOv8, OpenCV, SLAM | Autonomous robot with SLAM navigation and real-time YOLOv8n hazard detection for safety-critical environments |
+| **[IoT-Based Smart Wheelchair](#)** | <img src="https://img.shields.io/badge/-IoT-A22846?style=flat-square&logo=raspberrypi&logoColor=white"/> | ESP32, HC-SR04, MPU6050, L298N | Intelligent mobility aid with obstacle/fall detection, health monitoring, and real-time Wi-Fi data transfer |
 
 </div>
 
 <br>
 
 <details>
-<summary><b>ROS-Based Exploration Robot — Project Details</b></summary>
+<summary><b>Hallucination Detection in LLM Mathematical Reasoning — Details</b></summary>
 <br>
 
-**Motivation:** Send a robot into hazardous or inaccessible areas instead of humans, providing real-time environmental data (gas levels, heat, obstacles) and safety alerts.
+**Problem:** Large language models frequently generate confident but incorrect solutions to mathematical problems — a critical reliability concern for AI deployment.
 
-**System architecture**
-- *Hardware:* Raspberry Pi running the ROS2 interface and motor control, with camera, IMU, and gas/temperature sensors for perception and monitoring.
-- *Software:* Perception modules for object and hazard detection, SLAM-based autonomous navigation, a safety system that halts the robot and raises alerts on dangerous conditions, and localization/logging modules for tracking position and system data.
+**Approach:**
+- Evaluated Qwen2-1.5B, Phi-2, and LLaMA 3.x on the GSM8K benchmark dataset for mathematical reasoning
+- Built a BERT-based binary classifier to detect hallucinated vs correct reasoning steps
+- Implemented multi-signal fusion architecture combining symbolic verification (SymPy) and semantic analysis
+- Iteratively improved detection accuracy through threshold tuning and feature engineering
 
-**Deep learning component:** Real-time object detection using **YOLOv8n** via the Ultralytics library, optimized for low-power hardware. The pipeline continuously captures frames via OpenCV, runs YOLOv8n inference to detect and localize objects, annotates frames with bounding boxes, and streams the result to a web interface.
-
-**Key challenges addressed:** safe navigation in unknown/cluttered spaces, handling noisy sensor data, and maintaining real-time communication across all ROS nodes.
+**Outcome:** Demonstrated measurable improvement in hallucination detection accuracy; pipeline generalizes to other reasoning domains beyond math.
 
 </details>
 
 <details>
-<summary><b>IoT-Based Smart Wheelchair — Project Details</b></summary>
+<summary><b>ROS-Based Exploration Robot — Details</b></summary>
 <br>
 
-**Objective:** Develop a smart wheelchair that assists users through sensor-based automation, remote monitoring, and health tracking — improving mobility, safety, and independence.
+**Motivation:** Deploy robots into hazardous environments in place of humans, providing real-time environmental data and safety alerts.
 
-**Components:** ESP32 Wi-Fi microcontroller, ultrasonic sensor (HC-SR04) for obstacle detection, MPU6050 accelerometer, L298N motor driver with DC motors, pulse sensor for health monitoring, joystick/push-button controls, and buzzer for alerts.
+**Architecture:**
+- *Hardware:* Raspberry Pi for ROS2 control, with camera, IMU, and gas/temperature sensors
+- *Software:* YOLOv8n object detection, SLAM-based autonomous navigation, safety alert system, real-time web dashboard
 
-**Features**
-- Real-time obstacle detection with alert system
-- Fall detection and emergency alerts
-- Multiple control modes, including joystick navigation
-- Continuous health monitoring via pulse sensor
-- Real-time data transfer over Wi-Fi to a remote interface
+**Key challenges:** Safe navigation in unknown environments, noisy sensor data handling, real-time ROS node communication.
 
-**Impact:** Designed to empower elderly and differently-abled individuals by improving safety, enabling remote health monitoring, and reducing dependence on caregivers.
+</details>
 
-*Team project — built collaboratively as part of an IoT-based intelligent mobility systems project at Amrita Vishwa Vidyapeetham.*
+<details>
+<summary><b>IoT-Based Smart Wheelchair — Details</b></summary>
+<br>
+
+**Objective:** Improve mobility, safety, and independence for elderly and differently-abled individuals through sensor-based automation.
+
+**Features:** Real-time obstacle detection, fall detection with emergency alerts, health monitoring via pulse sensor, multiple control modes, Wi-Fi-based remote monitoring.
+
+*Team project — Amrita Vishwa Vidyapeetham.*
 
 </details>
 
@@ -117,60 +128,66 @@ B.Tech student in Computer Science and Artificial Intelligence with hands-on pro
 ## Research (Ongoing)
 
 <details>
-<summary><b>Android-Offloading: Cloud-Integrated Offloading System</b></summary>
+<summary><b>Cloud-Integrated Computation Offloading for Android Devices</b></summary>
 <br>
 
-> `Android` `Flask` `Google Cloud`
+> `Android` `Flask` `Google Cloud Platform`
 
-- Developing a cloud-integrated computation offloading framework to improve device performance and energy efficiency.
-- Built a Flask-based backend for handling remote computation and task execution.
-- Implementing battery-aware task migration strategies based on device conditions.
-- Integrating Google Cloud services for remote processing and real-time device-server communication.
+- Developing a battery-aware task offloading framework to improve mobile device performance and energy efficiency
+- Built Flask backend for remote computation and task execution
+- Integrating GCP services for real-time device-server communication and remote processing
 
 </details>
 
 ---
 
-## Professional Simulations (Forage)
+## Industry Experience (Forage Virtual Programs)
 
-| Program | Organization | Completed |
+| Program | Organization | Skills Demonstrated |
 |---|---|---|
-| Software Engineering | Skyscanner | June 2026 |
-| Software Engineering | JPMorgan Chase & Co. | June 2026 |
-| Advanced Software Engineering | Walmart Global Tech | January 2026 |
-| Red Bull Role Match Quiz | Red Bull | July 2025 |
-| Technology | Deloitte Australia | February 2025 |
+| Software Engineering | **Skyscanner** | React frontend, Dropwizard REST APIs, Android Studio (Kotlin) |
+| Software Engineering | **JPMorgan Chase & Co.** | Java, Spring Boot, Apache Kafka, H2 Database, REST APIs |
+| Advanced Software Engineering | **Walmart Global Tech** | Data structures, system design, software architecture |
+| Technology | **Deloitte Australia** | Technology consulting, data analysis, business problem framing |
 
 ---
 
-## Achievements & Certifications
+## Certifications
 
-| Category | Achievement | Details |
+| Certification | Issuer | Year |
 |---|---|---|
-| Certification | AI Fundamentals | IBM, 2025 |
-| Certification | Cisco Certified Support Technician — Cybersecurity | Cisco, 2024 |
-| Certification | Microsoft Azure Courses | Microsoft, 2024 |
-| Community Initiative | AI Awareness for Farmers (SSR Initiative) | Conducted sessions on AI applications & data-driven farming, 2025 |
-| Community Service | Amrita Seva Program — VCC Coordinator | Led community service & social welfare initiatives, 2023-2025 |
+| AI Fundamentals | IBM | 2025 |
+| Cisco Certified Support Technician — Cybersecurity (CCST) | Cisco | 2024 |
+| Microsoft Azure Fundamentals | Microsoft | 2024 |
+
+---
+
+## Community & Leadership
+
+| Role | Initiative | Impact |
+|---|---|---|
+| Speaker | AI Awareness for Farmers (SSR Initiative) | Conducted sessions on AI applications and data-driven farming practices, 2025 |
+| VCC Coordinator | Amrita Seva Program | Led community service and social welfare initiatives across 2023–2025 |
 
 ---
 
 ## Education
 
-| Degree | Institution | Year | Score |
+| Degree | Institution | Duration | Score |
 |---|---|---|---|
-| B.Tech, Computer Science & Artificial Intelligence | Amrita Vishwa Vidyapeetham, Amritapuri | 2023 - 2027 | CGPA: 7.15 |
-| 12th Grade (Kerala State Board) | Vijayamatha Convent School, Palakkad | 2022 - 2023 | 83% |
-| 10th Grade (Kerala State Board) | Vijayamatha Convent School, Palakkad | 2020 - 2021 | 98.2% |
+| B.Tech — Computer Science & Artificial Intelligence | Amrita Vishwa Vidyapeetham, Amritapuri | 2023 – 2027 | CGPA: 7.15 |
+| Class XII — Kerala State Board | Vijayamatha Convent School, Palakkad | 2022 – 2023 | 83% |
+| Class X — Kerala State Board | Vijayamatha Convent School, Palakkad | 2020 – 2021 | 98.2% |
 
 ---
 
-## Currently Learning
+## Areas of Interest
 
 ```text
-Reinforcement Learning   - Multi-Agent Systems, Reward Shaping
-NLP & LLMs                - Transformers, Hugging Face, Prompting Techniques
-Cloud & DevOps            - Kubernetes, Google Cloud, CI/CD
+Natural Language Processing     — LLMs, Transformers, Hallucination Detection, Multilingual AI
+Computer Vision                 — Object Detection, Medical Imaging, SLAM
+Reinforcement Learning          — Multi-Agent Systems, Reward Shaping
+Cloud & MLOps                   — GCP, Docker, Kubernetes, CI/CD Pipelines
 ```
 
 ---
@@ -179,8 +196,8 @@ Cloud & DevOps            - Kubernetes, Google Cloud, CI/CD
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Reshmitha-kr&theme=tokyonight&hide_border=true&background=0d1117&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd&border_radius=10&date_format=j%20M%5B%20Y%5D" width="49%"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reshmitha-kr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10&hide=java" width="49%"/>
+<img height="165em" src="https://streak-stats.demolab.com?user=Reshmitha-kr&theme=tokyonight&hide_border=true&background=0d1117&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd&border_radius=10&date_format=j%20M%5B%20Y%5D"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reshmitha-kr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10&hide=java"/>
 
 </div>
 
@@ -196,3 +213,5 @@ Cloud & DevOps            - Kubernetes, Google Cloud, CI/CD
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
