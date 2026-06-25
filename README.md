@@ -2,7 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Reshmitha%20K%20R&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%2FML%20Engineer%20%7C%20B.Tech%20CSE-AI%20%7C%20Amrita%20Vishwa%20Vidyapeetham&descAlignY=62&descSize=16" width="100%"/>
 
-<img src="https://komarev.com/ghpvc/?username=Reshmitha-kr&style=flat-square&color=70a5fd&label=Profile+Views"/>
 
 **Kerala, India · [LinkedIn](https://www.linkedin.com/in/reshmitha-kr) · [Email](mailto:rreshmithakr@gmail.com)**
 
