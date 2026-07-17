@@ -1,260 +1,202 @@
+::: {align="center"}
+`<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Reshmitha%20K%20R&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%2FML%20Engineer%20%7C%20B.Tech%20CSE-AI%20%7C%20Amrita%20Vishwa%20Vidyapeetham&descAlignY=62&descSize=16" width="100%"/>`{=html}
+
 # Reshmitha K R
 
-**AI/ML Engineer | Software Developer | B.Tech Computer Science & Artificial Intelligence**
+**Kerala, India · LinkedIn · Email**
+:::
 
-Kerala, India
+------------------------------------------------------------------------
+
+# About
+
+Final-year B.Tech student in Computer Science and Artificial
+Intelligence at Amrita Vishwa Vidyapeetham (2023--2027), with hands-on
+experience in Machine Learning, Deep Learning, NLP, Computer Vision,
+Robotics, and Full-Stack Development. Skilled at building end-to-end AI
+systems---from data preprocessing and model development to deployment
+and evaluation. Experienced across healthcare AI, intelligent
+automation, and embedded systems. Actively seeking opportunities in
+AI/ML engineering, software development, and data science.
+
+------------------------------------------------------------------------
+
+# Technical Skills
+
+## Programming Languages
+
+-   Python
+-   Java
+-   JavaScript
+-   SQL
+
+## Machine Learning & AI
+
+-   TensorFlow
+-   Keras
+-   PyTorch
+-   Scikit-learn
+-   OpenCV
+-   Hugging Face
+
+## Web & Cloud
+
+-   Flask
+-   React
+-   MongoDB
+-   Docker
+-   Kubernetes
+-   Google Cloud
+-   Streamlit
+
+## Robotics & Embedded Systems
+
+-   ROS2
+-   Raspberry Pi
+-   ESP32
+
+------------------------------------------------------------------------
+
+# Projects
+
+  ------------------------------------------------------------------------
+  Project           Domain            Technology Stack  Description
+  ----------------- ----------------- ----------------- ------------------
+  **Early           Healthcare AI     Python,           Deep learning
+  Prediction of                       TensorFlow,       models for
+  Pancreatic Cancer                   Keras, ResNet50,  pancreatic cancer
+  Using Deep                          Vision            prediction and
+  Learning**                          Transformer,      explainability.
+                                      Grad-CAM          
+
+  **Hallucination   NLP & LLMs        Python,           Multi-stage
+  Detection in LLM                    Qwen2-1.5B, BERT, pipeline for
+  Mathematical                        GSM8K, SymPy      hallucination
+  Reasoning**                                           detection and
+                                                        correction.
+
+  **Personalized    Machine Learning  Python, Librosa,  Emotion
+  Music Therapy                       Scikit-learn,     recognition and
+  System Using                        Spotify API       personalized music
+  Acoustic AI**                                         recommendation.
+
+  **AI-Based        Reinforcement     Python, SUMO,     Adaptive traffic
+  Adaptive Traffic  Learning          Multi-Agent RL,   optimization using
+  Signal Control**                    Streamlit         reinforcement
+                                                        learning.
+
+  **AI-Powered      Full Stack        MERN Stack,       Donation platform
+  Smart Donation &                    Python, Flask,    with JWT
+  Impact                              Machine Learning  authentication and
+  Recommendation                                        AI
+  System**                                              recommendations.
+
+  **ROS-Based       Robotics          ROS2, Raspberry   Autonomous robot
+  Exploration Robot                   Pi, YOLOv8,       with hazard
+  for Human Safety                    OpenCV            detection and
+  Validation**                                          navigation.
+
+  **IoT-Based Smart IoT               ESP32, HC-SR04,   Smart wheelchair
+  Wheelchair**                        MPU6050           with health and
+                                                        obstacle
+                                                        monitoring.
+  ------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+# Repositories
+
+  ------------------------------------------------------------------------------------------------------------------
+  Repository                                      Link
+  ----------------------------------------------- ------------------------------------------------------------------
+  AI-Powered Smart Donation & Impact              https://github.com/pavirb475/Donation-FullStack-Project
+  Recommendation System                           
+
+  Machine Learning Projects                       https://github.com/KR-KARTHIK05/ML
+
+  AI Mini Project                                 https://github.com/VishnuLOL/AI_Mini_Project
+
+  Attendance Portal                               https://github.com/VishnuLOL/22AIE115_Project-Attendance-Portal-
+  ------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+# Research
+
+**Cloud-Integrated Computation Offloading for Android Devices
+(Ongoing)**
+
+-   Android
+-   Flask
+-   Google Cloud Platform
+
+------------------------------------------------------------------------
+
+# Experience
+
+-   Walmart Global Tech -- Advanced Software Engineering Virtual
+    Experience
+-   JPMorgan Chase & Co. -- Software Engineering Virtual Experience
+-   Deloitte Australia -- Technology Job Simulation
+-   Skyscanner -- Software Engineering Virtual Experience
+
+------------------------------------------------------------------------
+
+# Certifications
+
+-   IBM AI Fundamentals (2025)
+-   Cisco Certified Support Technician -- Cybersecurity (2024)
+-   Microsoft Azure Courses (2024)
+
+------------------------------------------------------------------------
+
+# Community & Leadership
+
+-   AI Awareness for Farmers -- SSR Initiative
+-   VCC Coordinator -- Amrita Seva Program
+
+------------------------------------------------------------------------
+
+# Education
+
+**B.Tech -- Computer Science and Artificial Intelligence**
+
+Amrita Vishwa Vidyapeetham (2023--2027)
+
+CGPA: **7.15**
+
+------------------------------------------------------------------------
+
+# Areas of Interest
+
+-   Artificial Intelligence
+-   Machine Learning
+-   Natural Language Processing
+-   Computer Vision
+-   Reinforcement Learning
+-   Software Engineering
+-   Cloud Computing
+-   Robotics
+
+------------------------------------------------------------------------
+
+# GitHub Stats
+
+![GitHub
+Stats](https://github-readme-stats.vercel.app/api?username=Reshmitha-kr&show_icons=true&theme=tokyonight)
+
+![Top
+Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Reshmitha-kr&layout=compact&theme=tokyonight)
+
+![GitHub
+Streak](https://streak-stats.demolab.com?user=Reshmitha-kr&theme=tokyonight)
+
+------------------------------------------------------------------------
+
+# Contact
 
 **Email:** rreshmithakr@gmail.com
 
 **LinkedIn:** https://www.linkedin.com/in/reshmitha-kr
 
 **GitHub:** https://github.com/Reshmitha-kr
-
----
-
-# About Me
-
-I am a final-year B.Tech student in Computer Science and Artificial Intelligence at Amrita Vishwa Vidyapeetham. I enjoy building AI solutions, full-stack applications, and software systems that solve real-world problems. My interests include Machine Learning, Software Engineering, Computer Vision, NLP, and Cloud Computing.
-
----
-
-# Technical Skills
-
-## Programming Languages
-
-- Python
-- Java
-- JavaScript
-- SQL
-
-## Web Development
-
-- React.js
-- Node.js
-- Express.js
-- Flask
-- HTML
-- CSS
-
-## Machine Learning
-
-- TensorFlow
-- Keras
-- Scikit-learn
-- OpenCV
-- Hugging Face
-
-## Databases
-
-- MySQL
-- MongoDB
-
-## Cloud & Tools
-
-- Git
-- GitHub
-- Docker
-- Kubernetes
-- Google Cloud
-- Jupyter Notebook
-- Streamlit
-
----
-
-# Featured Projects
-
-## 1. AI-Powered Smart Donation & Impact Recommendation System
-
-**Domain:** Full Stack + Machine Learning
-
-**Technologies**
-
-- MERN Stack
-- Flask
-- Python
-- MongoDB
-- JWT Authentication
-
-**Description**
-
-Developed a full-stack donation platform with secure authentication, role-based access control, and AI-driven recommendation models.
-
-**Repository**
-
-https://github.com/Reshmitha-kr/Donation-FullStack-Project
-
----
-
-## 2. Early Prediction of Pancreatic Cancer Using Deep Learning
-
-**Domain:** Healthcare AI
-
-**Technologies**
-
-- Python
-- TensorFlow
-- Keras
-- ResNet50
-- Vision Transformer
-- Grad-CAM
-
-**Description**
-
-Compared ResNet50 and Vision Transformer models for pancreatic cancer prediction and implemented Grad-CAM for model explainability.
-
-**Repository**
-
-https://github.com/Reshmitha-kr/pancreatic-cancer
-
----
-
-## 3. Hallucination Detection in LLM Mathematical Reasoning
-
-**Domain:** NLP
-
-**Technologies**
-
-- Python
-- Qwen
-- BERT
-- GSM8K
-
-**Description**
-
-Built a multi-stage pipeline to detect and correct hallucinations in LLM-generated mathematical reasoning.
-
-**Repository**
-
-https://github.com/Reshmitha-kr/hallucination-detection
-
----
-
-## 4. Personalized Music Therapy System
-
-**Domain:** Machine Learning
-
-**Technologies**
-
-- Python
-- Librosa
-- Scikit-learn
-- Spotify API
-
-**Description**
-
-Emotion recognition from speech using audio features with personalized music recommendation.
-
-**Repository**
-
-https://github.com/Reshmitha-kr/music-therapy-system
-
----
-
-## 5. AI-Based Adaptive Traffic Signal Control
-
-**Domain:** Reinforcement Learning
-
-**Technologies**
-
-- Python
-- SUMO
-- Streamlit
-
-**Description**
-
-Designed a multi-agent reinforcement learning system for intelligent traffic signal optimization.
-
-**Repository**
-
-https://github.com/Reshmitha-kr/adaptive-traffic-signal
-
----
-
-## 6. ROS-Based Exploration Robot
-
-**Domain:** Robotics
-
-**Technologies**
-
-- ROS2
-- Raspberry Pi
-- YOLOv8
-- OpenCV
-
-**Description**
-
-Autonomous robot for hazard detection and navigation in safety-critical environments.
-
-**Repository**
-
-https://github.com/Reshmitha-kr/ros-exploration-robot
-
----
-
-## 7. IoT-Based Smart Wheelchair
-
-**Domain:** IoT
-
-**Technologies**
-
-- ESP32
-- MPU6050
-- HC-SR04
-
-**Description**
-
-Developed a smart wheelchair with obstacle detection, fall detection, and health monitoring.
-
-**Repository**
-
-https://github.com/Reshmitha-kr/iot-smart-wheelchair
-
----
-
-# Experience
-
-### Walmart Global Tech
-
-Advanced Software Engineering Virtual Experience
-
-### JPMorgan Chase & Co.
-
-Software Engineering Virtual Experience
-
-### Deloitte Australia
-
-Technology Job Simulation
-
-### Skyscanner
-
-Software Engineering Virtual Experience
-
----
-
-# Certifications
-
-- IBM AI Fundamentals
-- Cisco Certified Support Technician – Cybersecurity
-- Microsoft Azure Fundamentals
-
----
-
-# Education
-
-**B.Tech Computer Science and Artificial Intelligence**
-
-Amrita Vishwa Vidyapeetham
-
-2023 – 2027
-
-CGPA: 7.15
-
----
-
-# Contact
-
-Email: rreshmithakr@gmail.com
-
-LinkedIn: https://www.linkedin.com/in/reshmitha-kr
-
-GitHub: https://github.com/Reshmitha-kr
