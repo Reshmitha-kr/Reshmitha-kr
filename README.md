@@ -77,8 +77,14 @@ Final-year B.Tech student in Computer Science and Artificial Intelligence at Amr
 
 ## Research
 
-**Cloud-Integrated Computation Offloading for Android Devices** *(Ongoing)*
-- Android · Flask · Google Cloud Platform
+**Android-Offloading: Cloud-Integrated Offloading System** *(Ongoing)*
+Android · Flask · Google Cloud
+
+- Developed a cloud-integrated computation offloading framework to improve device performance and energy efficiency.
+- Built a Flask-based backend for handling remote computation and task execution.
+- Implemented battery-aware task migration strategies based on device conditions.
+- Integrated Google Cloud services for remote processing and real-time communication between devices and server components.
+- Improved CPU efficiency and reduced device workload through intelligent offloading techniques.
 
 ---
 
@@ -111,25 +117,6 @@ Final-year B.Tech student in Computer Science and Artificial Intelligence at Amr
 **B.Tech — Computer Science and Artificial Intelligence**
 Amrita Vishwa Vidyapeetham (2023–2027)
 CGPA: **7.15**
-
----
-
-## Areas of Interest
-
-Artificial Intelligence · Machine Learning · Natural Language Processing · Computer Vision · Reinforcement Learning · Software Engineering · Cloud Computing · Robotics
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Reshmitha-kr&show_icons=true&theme=tokyonight" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reshmitha-kr&layout=compact&theme=tokyonight" width="49%"/>
-
-<img src="https://streak-stats.demolab.com?user=Reshmitha-kr&theme=tokyonight" width="60%"/>
-
-</div>
 
 ---
 
