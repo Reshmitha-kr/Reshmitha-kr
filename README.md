@@ -70,7 +70,7 @@ Final-year B.Tech student in Computer Science and Artificial Intelligence at Amr
 |---|---|
 | [Donation-FullStack-Project](https://github.com/pavirb475/Donation-FullStack-Project) | AI-Powered Smart Donation & Impact Recommendation System |
 | [ML](https://github.com/KR-KARTHIK05/ML) | Machine learning project for emotion classification from speech using audio features |
-| [AI_Mini_Project](https://github.com/VishnuLOL/AI_Mini_Project) | AI Mini Project |
+| [AI_Mini_Project](https://github.com/Reshmitha-kr/Astar-pathfinding-dynamic-obstacles) | AI Mini Project |
 | [22AIE115_Project-Attendance-Portal-](https://github.com/VishnuLOL/22AIE115_Project-Attendance-Portal-) | Attendance Portal |
 
 ---
